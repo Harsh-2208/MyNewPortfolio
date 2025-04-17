@@ -45,8 +45,8 @@ const EmailSection = () => {
 			</div>
 			<div>
 				<form
-				    action="https://formspree.io/f/xanegnye"
-					method="POST"
+				    
+					
 					onSubmit={handleSubmit}
 					className='flex flex-col gap-3'
 				>

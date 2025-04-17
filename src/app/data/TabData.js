@@ -11,7 +11,7 @@ export const Tab_Data = [
 				<li>TypeScript / JavaScript</li>
 				<li>Redux-Toolkit</li>
 				<li>Tailwind css</li>
-				<li>vuetify css</li>
+				<li>Vue.js / Vuetify css</li>
 				<li>Firebase</li>
 				<li>HTML/CSS</li>
 			</ul>
