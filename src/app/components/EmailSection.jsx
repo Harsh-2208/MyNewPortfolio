@@ -6,7 +6,7 @@ import Image from 'next/image';
 import { useForm } from '@formspree/react';
 
 const EmailSection = () => {
-	const [state, handleSubmit] = useForm('mrgnbjad');
+	const [state, handleSubmit] = useForm('xanegnye');
 	if (state.succeeded) {
 		alert('Sent successfully');
 	}
@@ -45,6 +45,7 @@ const EmailSection = () => {
 			</div>
 			<div>
 				<form
+				    action="https://formspree.io/f/xanegnye"
 					onSubmit={handleSubmit}
 					className='flex flex-col gap-3'
 				>
