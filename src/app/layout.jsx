@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
 				<link
 					rel="icon"
 					type="image/png"
-					href="/Images/Logo.png"
+					href="/Images/logo.png"
 				/>
 			</head>
 			<body className={inter.className}>{children}</body>
